@@ -1,0 +1,1 @@
+This data was taken in a sequential way. it means there is movement all during the entire capture sequence, except for stop
